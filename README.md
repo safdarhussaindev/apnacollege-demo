@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my sixth Git Repository
 <br>
-Author- Safdar Hussain
+Author- Safdar Hussain (apna college)
